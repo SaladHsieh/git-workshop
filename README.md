@@ -30,8 +30,8 @@ Github 則是一個支援 git 程式碼存取和遠端托管的平台服務，�
     - remote: 儲存庫repo
     - 新增、修改、刪除檔案
 
-* 合併
-    - 檢視、切換、合併、刪除分之
+* 分支
+    - 檢視、切換、合併、刪除分支
 
 * local repo 與 remote repo 連結
     - 建立github repo
