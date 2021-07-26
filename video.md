@@ -1,3 +1,4 @@
+![](https://i.imgur.com/Dkip1uo.jpg)
 # Notes: Limitless Mind by educator Jo Boaler
 
 ## 介紹
